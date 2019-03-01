@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "1xClient"
+msgstr "联想天工"
+
+msgid "General Setting"
+msgstr "基本设置"
+
+msgid "NOT RUNNING"
+msgstr "未运行"
+
+msgid "RUNNING"
+msgstr "运行中"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Debug"
+msgstr "调试"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Interfaces"
+msgstr "接口"
